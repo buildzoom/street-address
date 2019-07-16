@@ -1,4 +1,4 @@
-module StreetAddress2
+module StreetAddress
   class US
 
     DIRECTIONAL = {
